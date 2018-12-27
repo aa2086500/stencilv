@@ -3338,11 +3338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\code\\PickUp\\stencil\\stencilv1.0\\stencilv.Entity\\stencilv.Entity.csproj",
+      "projectUniqueName": "E:\\code\\github\\stencilv\\stencilv.Entity\\stencilv.Entity.csproj",
       "projectName": "stencilv.Entity",
-      "projectPath": "E:\\code\\PickUp\\stencil\\stencilv1.0\\stencilv.Entity\\stencilv.Entity.csproj",
+      "projectPath": "E:\\code\\github\\stencilv\\stencilv.Entity\\stencilv.Entity.csproj",
       "packagesPath": "C:\\Users\\82323\\.nuget\\packages\\",
-      "outputPath": "E:\\code\\PickUp\\stencil\\stencilv1.0\\stencilv.Entity\\obj\\",
+      "outputPath": "E:\\code\\github\\stencilv\\stencilv.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

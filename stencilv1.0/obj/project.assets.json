@@ -11719,11 +11719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\code\\PickUp\\stencil\\stencilv1.0\\stencilv1.0\\stencilv1.0.csproj",
+      "projectUniqueName": "E:\\code\\github\\stencilv\\stencilv1.0\\stencilv1.0.csproj",
       "projectName": "stencilv1.0",
-      "projectPath": "E:\\code\\PickUp\\stencil\\stencilv1.0\\stencilv1.0\\stencilv1.0.csproj",
+      "projectPath": "E:\\code\\github\\stencilv\\stencilv1.0\\stencilv1.0.csproj",
       "packagesPath": "C:\\Users\\82323\\.nuget\\packages\\",
-      "outputPath": "E:\\code\\PickUp\\stencil\\stencilv1.0\\stencilv1.0\\obj\\",
+      "outputPath": "E:\\code\\github\\stencilv\\stencilv1.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
