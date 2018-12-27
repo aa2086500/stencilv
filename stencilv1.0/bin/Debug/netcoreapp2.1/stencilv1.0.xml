@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>stencilv1.0</name>
+    </assembly>
+    <members>
+        <member name="M:stencilv1._0.Controllers.ValuesController.Get">
+            <summary>
+            values
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

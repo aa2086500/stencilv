@@ -1,0 +1,6 @@
+E:\code\PickUp\stencil\stencilv1.0\stencilv.Entity\bin\Debug\netcoreapp2.1\stencilv.Entity.deps.json
+E:\code\PickUp\stencil\stencilv1.0\stencilv.Entity\bin\Debug\netcoreapp2.1\stencilv.Entity.dll
+E:\code\PickUp\stencil\stencilv1.0\stencilv.Entity\obj\Debug\netcoreapp2.1\stencilv.Entity.csprojAssemblyReference.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv.Entity\obj\Debug\netcoreapp2.1\stencilv.Entity.csproj.CoreCompileInputs.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv.Entity\obj\Debug\netcoreapp2.1\stencilv.Entity.AssemblyInfoInputs.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv.Entity\obj\Debug\netcoreapp2.1\stencilv.Entity.AssemblyInfo.cs

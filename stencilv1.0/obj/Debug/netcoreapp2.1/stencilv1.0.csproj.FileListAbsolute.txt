@@ -1,0 +1,16 @@
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.csproj.CoreCompileInputs.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.AssemblyInfoInputs.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.AssemblyInfo.cs
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\bin\Debug\netcoreapp2.1\stencilv1.0.deps.json
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\bin\Debug\netcoreapp2.1\stencilv1.0.runtimeconfig.json
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\bin\Debug\netcoreapp2.1\stencilv1.0.runtimeconfig.dev.json
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\bin\Debug\netcoreapp2.1\stencilv1.0.dll
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\bin\Debug\netcoreapp2.1\stencilv1.0.pdb
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.csprojAssemblyReference.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.RazorAssemblyInfo.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.RazorAssemblyInfo.cs
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.RazorTargetAssemblyInfo.cache
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.dll
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\stencilv1.0.pdb
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\bin\Debug\netcoreapp2.1\stencilv1.0.xml
+E:\code\PickUp\stencil\stencilv1.0\stencilv1.0\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
