@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  stencilv1.0:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - TZ=Asia/Shanghai
+      - ASPNETCORE_URLS=https://+:443;http://+:80
+      - ASPNETCORE_HTTPS_PORT=44351
+    ports:
+      - "24939:80"
+      - "44351:443"
+    volumes:
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
